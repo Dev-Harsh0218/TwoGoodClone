@@ -1,0 +1,35 @@
+/* --text: #ebebea;
+--background: #151514;
+--primary: #494a45;
+--secondary: #242522;
+--accent: #8c8e85; */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Gilroy';
+}
+
+body,html{
+    width: 100%;
+    height: 100%;
+}
+
+#page1{
+    min-height: 100vh;
+    width: 100%;
+    position: relative;
+    text-align: center;
+    line-height: 11vw;
+    background-color: grey;
+    padding-top: 23vh;
+}
+
+#page1 h1{
+    letter-spacing: -0.6vw;
+    margin-bottom: 2.2vh;
+    font-size:16.2vw;
+    font-family: futura;
+    text-transform: uppercase;
+}
+
